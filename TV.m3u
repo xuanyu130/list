@@ -118,7 +118,7 @@ http://ivi.bupt.edu.cn/hls/btv10.m3u8
 #EXTINF:-1 ,上海哈哈炫动
 http://140.207.241.3:8080/live/program/live/hhxdhd/4000000/mnf.m3u8
 #EXTINF:-1 ,湖南金鹰卡通
-http://phonetx.qing.mgtv.com/nn_live/nn_x64/cWlkPSZzPWQ0NTAzZGJhZmU5MmEwZDAzZTQzMDM1ZjMyMzdlNTRkJmVzPTE2MjY4ODQ2NDYmdXVpZD1jZGVlYmMyOWEyOWY5NWNjYmFlNDBmZTY0NzEzNzI5My0zYWYwMjM1ZiZ2PTImYXM9MCZjZG5leF9pZD10eF9waG9uZV9saXZl/JYKTMPP360.m3u8
+http://107.148.254.201:13164/play.m3u8?token=P5SAXIxWEsHTHOYAYongegbA&tid=bfiptv&id=66
 #EXTINF:-1 ,嘉佳卡通
 http://gslb.dianshihome.com/gslb/live?stream_id=gdtv_66&ostype=android&hwtype=p212&tm=1626857312&isp=telecom&region=440000&uuid=50ea15864b184b3780b5692d1842218c&sign=0c50275b1b27b2f2d59b9f74db9a3165&ver=1.0.8
 #EXTINF:-1,SiTV动漫秀场 1080
