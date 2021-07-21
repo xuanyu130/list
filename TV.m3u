@@ -32,9 +32,9 @@ http://39.135.138.8:6610/PLTV/88888888/224/3221225641/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1,CCTV-17 农业农村 高清
 http://39.135.138.8:6610/PLTV/88888888/224/3221225909/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1,CCTV-4 中文国际 欧洲 
-http://mgsp.live.miguvideo.com:8088/migu/kailu/20200324/cctv4ouhd/51/01.m3u8?msisdn=202107211653017f54149642444516980524e6db2cab48&mdspid=&spid=699004&netType=4&sid=2200179315&pid=2028597139&timestamp=20210721165301&Channel_ID=0116_25000000-99000-100300010010001&ProgramID=608807419&ParentNodeID=-99&assertID=2200179315&client_ip=58.240.35.95&SecurityKey=20210721165301&mvid=2200179315&mcid=500020&mpid=&playurlVersion=SJ-A1-4.7.1&userid=&jmhm=&videocodec=h264&mgdbId=&mtv_session=bd223e2bd2ab296fc365e759553833a2&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=006586c907d5aff3cc59c63ffff477ed
+http://107.148.254.201:13164/play.m3u8?token=UbS7qbxcVd7M1u5w4MLOYO8v&tid=ys&id=19
 #EXTINF:-1,CCTV-4 中文国际 美洲
-http://mgbs.live.miguvideo.com:8088/migu/kailu/20200324/cctv4meihd/51/01.m3u8?msisdn=20210721165608efc8c4584bc64707843ab70f1caae29c&mdspid=&spid=699004&netType=4&sid=2200179344&pid=2028597139&timestamp=20210721165608&Channel_ID=0116_25000000-99000-100300010010001&ProgramID=608807416&ParentNodeID=-99&assertID=2200179344&client_ip=58.240.35.95&SecurityKey=20210721165608&mvid=2200179344&mcid=500020&mpid=&playurlVersion=SJ-A1-4.7.1&userid=&jmhm=&videocodec=h264&mgdbId=&mtv_session=6326082bf7211d2d0f5b316f703a2203&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=c684c7aa1ed47271313928a64e268a7f
+http://107.148.254.201:13164/play.m3u8?token=Xb3JynqY5Vihc6eSSwbP%2FdCq&tid=ys&id=20
 #EXTINF:-1,中央新影 老故事
 http://39.135.138.5:6610/PLTV/88888888/224/3221225517/2/index.m3u8
 #EXTINF:-1,中央新影 中学生
