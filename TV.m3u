@@ -122,15 +122,15 @@ http://223.110.251.152:6610/cntv/live1/youmankaton/youmankaton
 #EXTINF:-1 ,北京卡酷少儿
 http://223.110.251.152:6610/cntv/live1/kakukaton/kakukaton
 #EXTINF:-1 ,上海哈哈炫动
-http://140.207.241.3:8080/live/program/live/hhxdhd/4000000/mnf.m3u8
+http://223.110.251.152:6610/gitv/live1/G_XUANDONG/G_XUANDONG/
 #EXTINF:-1 ,湖南金鹰卡通
 http://223.110.251.152:6610/cntv/live1/jinyingkaton/jinyingkaton
 #EXTINF:-1 ,广东嘉佳卡通
-http://183.207.248.71/gitv/live1/G_JIAJIA/G_JIAJIA
+http://223.110.251.152:6610/gitv/live1/G_JIAJIA/G_JIAJIA/
 #EXTINF:-1 ,星空卫视
 rtmp://ivi.bupt.edu.cn:1935/livetv/startv
 #EXTINF:-1,SiTV动漫秀场 1080
-http://140.207.241.2:8080/live/program/live/dmxchd/4000000/mnf.m3u8
+http://39.134.39.38/PLTV/88888888/224/3221226197/index.m3u8
 #EXTINF:-1,东方影视FHD
 http://140.207.241.2:8080/live/program/live/dsjpdhd/4000000/mnf.m3u8
 #EXTINF:-1,SiTV动漫秀场 1080
