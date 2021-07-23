@@ -35,6 +35,10 @@ http://39.135.138.8:6610/PLTV/88888888/224/3221225640/2/index.m3u8?fmt=ts2hls
 http://39.135.138.8:6610/PLTV/88888888/224/3221225641/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1,CCTV-17 农业农村 高清
 http://39.135.138.8:6610/PLTV/88888888/224/3221225909/2/index.m3u8?fmt=ts2hls
+#EXTINF:-1,CCTV-4 中文国际 欧洲
+https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctveurope_2/index.m3u8
+#EXTINF:-1,CCTV-4 中文国际 美洲
+https://cctvksh5ca.v.kcdnvip.com/clive/cctvamerica_2/index.m3u8
 #EXTINF:-1,中央新影 老故事
 http://39.135.138.5:6610/PLTV/88888888/224/3221225517/2/index.m3u8
 #EXTINF:-1,中央新影 中学生
