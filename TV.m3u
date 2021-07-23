@@ -251,11 +251,11 @@ https://cdn.hkdtmb.com/hls/84/index.m3u8
 https://cdn.hkdtmb.com/hls/85/index.m3u8
 #EXTINF:-1 ,g-name=ViuTV group-title=港澳台频道 ,ViuTV
 https://cdn.hkdtmb.com/hls/99/index.m3u8
-#EXTINF:-1 ,g-name=ViuTV Six group-title=港澳台频道 ,ViuTV Six
+#EXTINF:-1 ,g-name=         group-title=港澳台频道 ,ViuTV Six
 https://cdn.hkdtmb.com/hls/96/index.m3u8
 #EXTINF:-1 ,g-name=ViuTV group-title=港澳台频道 ,ViuTV
 http://61.238.6.49:8000/bysid/99
-#EXTINF:-1 ,g-name=ViuTV Six group-title=港澳台频道 ,ViuTV Six
+#EXTINF:-1 ,g-name=         group-title=港澳台频道 ,ViuTV Six
 http://61.238.6.49:8000/bysid/96
 #EXTINF:-1 ,g-name=         group-title=港澳台频道 ,澳視MACAU
 http://live4.tdm.com.mo/ch3/_definst_/ch3.live/playlist.m3u8
