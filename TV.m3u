@@ -181,18 +181,12 @@ http://39.135.140.104:6610/PLTV/88888888/224/3221225718/2/index.m3u8
 http://39.135.140.104:6610/PLTV/88888888/224/3221225710/2/index.m3u8
 #EXTINF:-1 group-title="娱乐频道",金牌综艺
 http://39.135.140.104:6610/PLTV/88888888/224/3221225711/2/index.m3u8
-#EXTINF:-1 group-title="港澳台电视",凤凰卫视高清
-http://223.110.245.139/PLTV/3/224/3221226922/index.m3u8
-#EXTINF:-1 group-title="港澳台电视",凤凰香港蓝光
-http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8
-#EXTINF:-1 group-title="港澳台电视",凤凰中文台
-http://39.135.53.195/ott.fj.chinamobile.com/PLTV/88888888/224/3221225900/1.m3u8
-#EXTINF:-1 group-title="港澳台电视",凤凰中文台
+#EXTINF:-1 group-title="港澳台电视",凤凰卫视中文台
 http://117.169.124.43:6610/ysten-businessmobile/live/fhchinese/index.m3u8
-#EXTINF:-1 group-title="港澳台电视",凤凰资讯台
-http://39.135.53.195/ott.fj.chinamobile.com/PLTV/88888888/224/3221225901/1.m3u8
-#EXTINF:-1 group-title="港澳台电视",凤凰资讯台
+#EXTINF:-1 group-title="港澳台电视",凤凰卫视资讯台
 http://117.169.124.43:6610/ysten-businessmobile/live/fhzixun/index.m3u8
+#EXTINF:-1 group-title="港澳台电视",凤凰卫视香港台
+http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8
 #EXTINF:-1 group-title="港澳台电视",澳视澳门
 http://61.244.22.5/ch1/_definst_/ch1.live/playlist.m3u8
 #EXTINF:-1 group-title="港澳台电视",澳门卫星
