@@ -1,8 +1,7 @@
 #EXTM3U
 #EXTINF:-1 group-title="央视频道",CCTV-1
 http://39.135.140.104:6610/PLTV/88888888/224/3221226221/2/index.m3u8?fmt=ts2hls
-http://223.110.243.159/ott.js.chinamobile.com/PLTV/3/224/3221227725/index.m3u8
-#EXTINF:-1 group-title="央视频道",RHK33 转播CCTV-1 综合
+#EXTINF:-1 group-title="央视频道",RHK33
 https://cdn.hkdtmb.com/hls/33/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-2
 http://39.135.140.104:6610/PLTV/88888888/224/3221225643/2/index.m3u8?fmt=ts2hls
