@@ -1,122 +1,122 @@
 #EXTM3U
 #EXTINF:-1 group-title="央视频道",CCTV1
-http://39.135.138.59:18890/PLTV/88888910/224/3221226221/index.m3u8?fmt=ts2hls
+http://39.135.140.70:6610/PLTV/88888888/224/3221226221/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="央视频道",RHK33
 https://cdn.hkdtmb.com/hls/33/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV2
-http://39.135.138.59:18890/PLTV/88888910/224/3221225643/index.m3u8?fmt=ts2hls
+http://39.135.140.70:6610/PLTV/88888888/224/3221225643/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="央视频道",CCTV3
-http://39.135.138.59:18890/PLTV/88888910/224/3221225634/index.m3u8?fmt=ts2hls
+http://39.135.140.70:6610/PLTV/88888888/224/3221225634/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="央视频道",CCTV4
-http://39.135.138.59:18890/PLTV/88888910/224/3221225621/index.m3u8?fmt=ts2hls
+http://39.135.140.70:6610/PLTV/88888888/224/3221225621/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="央视频道",CCTV5
-http://39.135.138.59:18890/PLTV/88888910/224/3221225633/index.m3u8?fmt=ts2hls
+http://39.135.140.70:6610/PLTV/88888888/224/3221225633/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="央视频道",CCTV5+
-http://39.135.138.59:18890/PLTV/88888910/224/3221225706/index.m3u8?fmt=ts2hls
+http://39.135.140.70:6610/PLTV/88888888/224/3221225706/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="央视频道",CCTV6
-http://39.135.138.59:18890/PLTV/88888910/224/3221225632/index.m3u8?fmt=ts2hls
+http://39.135.140.70:6610/PLTV/88888888/224/3221225632/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="央视频道",CCTV7
-http://39.135.138.59:18890/PLTV/88888910/224/3221225644/index.m3u8?fmt=ts2hls
+http://39.135.140.70:6610/PLTV/88888888/224/3221225644/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="央视频道",CCTV8
-http://39.135.138.59:18890/PLTV/88888910/224/3221225631/index.m3u8?fmt=ts2hls
+http://39.135.140.70:6610/PLTV/88888888/224/3221225631/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="央视频道",CCTV9
-http://39.135.138.59:18890/PLTV/88888910/224/3221225646/index.m3u8?fmt=ts2hls
+http://39.135.140.70:6610/PLTV/88888888/224/3221225646/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="央视频道",CCTV10
-http://39.135.138.59:18890/PLTV/88888910/224/3221225636/index.m3u8?fmt=ts2hls
+http://39.135.140.70:6610/PLTV/88888888/224/3221225636/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="央视频道",CCTV11
-http://39.135.138.59:18890/PLTV/88888910/224/3221225628/index.m3u8?fmt=ts2hls
+http://39.135.140.70:6610/PLTV/88888888/224/3221225628/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="央视频道",CCTV12
-http://39.135.138.59:18890/PLTV/88888910/224/3221225637/index.m3u8?fmt=ts2hls
+http://39.135.140.70:6610/PLTV/88888888/224/3221225637/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="央视频道",CCTV13
-http://39.135.138.59:18890/PLTV/88888910/224/3221225638/index.m3u8?fmt=ts2hls
+http://39.135.140.70:6610/PLTV/88888888/224/3221225638/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="央视频道",CCTV14
-http://39.135.138.59:18890/PLTV/88888910/224/3221225640/index.m3u8?fmt=ts2hls
+http://39.135.140.70:6610/PLTV/88888888/224/3221225640/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="央视频道",CCTV15
-http://39.135.138.59:18890/PLTV/88888910/224/3221225641/index.m3u8?fmt=ts2hls
+http://39.135.140.70:6610/PLTV/88888888/224/3221225641/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="央视频道",CCTV17
-http://39.135.138.59:18890/PLTV/88888910/224/3221225909/index.m3u8?fmt=ts2hls
+http://39.135.140.70:6610/PLTV/88888888/224/3221225909/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="央视频道",CCTV4K
-http://39.135.138.59:18890/PLTV/88888910/224/3221226237/index.m3u8?fmt=ts2hls
+http://39.135.140.70:6610/PLTV/88888888/224/3221226237/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="央视频道",CCTV4 欧洲
 https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctveurope_2/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV4 美洲
 https://cctvksh5ca.v.kcdnvip.com/clive/cctvamerica_2/index.m3u8
 #EXTINF:-1 group-title="央视频道",中央新影 老故事
-http://39.135.138.5:6610/PLTV/88888888/224/3221225517/index.m3u8
+http://39.135.138.5:6610/PLTV/88888888/224/3221225517/2/index.m3u8
 #EXTINF:-1 group-title="央视频道",中央新影 中学生
-http://39.135.138.5:6610/PLTV/88888888/224/3221225515/index.m3u8
+http://39.135.138.5:6610/PLTV/88888888/224/3221225515/2/index.m3u8
 #EXTINF:-1 group-title="央视频道",中央新影 新科动漫
 http://cctvtxyh5ca.liveplay.myqcloud.com/live/xinkedongman_2/index.m3u8
 #EXTINF:-1 group-title="央视频道",中央新影 发现之旅
 http://125.210.152.18:9090/live/FXZL_750.m3u8
 #EXTINF:-1 group-title="央视频道",CETV-1
-http://39.135.138.59:18890/PLTV/88888910/224/3221225917/index.m3u8?fmt=ts2hls
+http://39.135.140.70:6610/PLTV/88888888/224/3221225917/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="卫视频道",湖南卫视
-http://39.135.138.59:18890/PLTV/88888910/224/3221225704/index.m3u8?fmt=ts2hls
+http://39.135.140.70:6610/PLTV/88888888/224/3221225704/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="卫视频道",浙江卫视
-http://39.135.138.59:18890/PLTV/88888910/224/3221225703/index.m3u8?fmt=ts2hls
+http://39.135.140.70:6610/PLTV/88888888/224/3221225703/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="卫视频道",江苏卫视
-http://39.135.138.59:18890/PLTV/88888910/224/3221225488/index.m3u8?fmt=ts2hls
+http://39.135.140.70:6610/PLTV/88888888/224/3221225488/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="卫视频道",北京卫视
-http://39.135.138.59:18890/PLTV/88888910/224/3221225674/index.m3u8?fmt=ts2hls
+http://39.135.140.70:6610/PLTV/88888888/224/3221225674/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="卫视频道",东方卫视
-http://39.135.138.59:18890/PLTV/88888910/224/3221225659/index.m3u8?fmt=ts2hls
+http://39.135.140.70:6610/PLTV/88888888/224/3221225659/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="卫视频道",安徽卫视
-http://39.135.138.59:18890/PLTV/88888910/224/3221225691/index.m3u8?fmt=ts2hls
+http://39.135.140.70:6610/PLTV/88888888/224/3221225691/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="卫视频道",广东卫视
-http://39.135.138.59:18890/PLTV/88888910/224/3221225701/index.m3u8?fmt=ts2hls
+http://39.135.140.70:6610/PLTV/88888888/224/3221225701/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="卫视频道",深圳卫视
-http://39.135.138.59:18890/PLTV/88888910/224/3221225700/index.m3u8?fmt=ts2hls
+http://39.135.140.70:6610/PLTV/88888888/224/3221225700/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="卫视频道",辽宁卫视
-http://39.135.138.59:18890/PLTV/88888910/224/3221225696/index.m3u8?fmt=ts2hls
+http://39.135.140.70:6610/PLTV/88888888/224/3221225696/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="卫视频道",海南卫视
-http://39.135.138.59:18890/PLTV/88888910/224/3221226212/index.m3u8?fmt=ts2hls
+http://39.135.140.70:6610/PLTV/88888888/224/3221226212/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="卫视频道",山东卫视
-http://39.135.138.59:18890/PLTV/88888910/224/3221225697/index.m3u8?fmt=ts2hls
+http://39.135.140.70:6610/PLTV/88888888/224/3221225697/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="卫视频道",天津卫视
-http://39.135.138.59:18890/PLTV/88888910/224/3221225698/index.m3u8?fmt=ts2hls
+http://39.135.140.70:6610/PLTV/88888888/224/3221225698/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="卫视频道",重庆卫视
-http://39.135.138.59:18890/PLTV/88888910/224/3221225692/index.m3u8?fmt=ts2hls
+http://39.135.140.70:6610/PLTV/88888888/224/3221225692/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="卫视频道",东南卫视
-http://39.135.138.59:18890/PLTV/88888910/224/3221225585/index.m3u8?fmt=ts2hls
+http://39.135.140.70:6610/PLTV/88888888/224/3221225585/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="卫视频道",广西卫视
-http://39.135.138.59:18890/PLTV/88888910/224/3221226211/index.m3u8?fmt=ts2hls
+http://39.135.140.70:6610/PLTV/88888888/224/3221226211/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="卫视频道",贵州卫视
-http://39.135.138.59:18890/PLTV/88888910/224/3221225483/index.m3u8?fmt=ts2hls
+http://39.135.140.70:6610/PLTV/88888888/224/3221225483/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="卫视频道",河北卫视
-http://39.135.138.59:18890/PLTV/88888910/224/3221225610/index.m3u8?fmt=ts2hls
+http://39.135.140.70:6610/PLTV/88888888/224/3221225610/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="卫视频道",黑龙江卫视
-http://39.135.138.59:18890/PLTV/88888910/224/3221225690/index.m3u8?fmt=ts2hls
+http://39.135.140.70:6610/PLTV/88888888/224/3221225690/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="卫视频道",河南卫视
-http://39.135.138.59:18890/PLTV/88888910/224/3221225611/index.m3u8?fmt=ts2hls
+http://39.135.140.70:6610/PLTV/88888888/224/3221225611/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="卫视频道",湖北卫视
-http://39.135.138.59:18890/PLTV/88888910/224/3221225699/index.m3u8?fmt=ts2hls
+http://39.135.140.70:6610/PLTV/88888888/224/3221225699/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="卫视频道",江西卫视
-http://39.135.138.59:18890/PLTV/88888910/224/3221225492/index.m3u8?fmt=ts2hls
+http://39.135.140.70:6610/PLTV/88888888/224/3221225492/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="卫视频道",四川卫视
-http://39.135.138.59:18890/PLTV/88888910/224/3221225487/index.m3u8?fmt=ts2hls
+http://39.135.140.70:6610/PLTV/88888888/224/3221225487/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="卫视频道",内蒙古卫视
-http://39.135.138.59:18890/PLTV/88888910/224/3221225667/index.m3u8?fmt=ts2hls
+http://39.135.140.70:6610/PLTV/88888888/224/3221225667/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="卫视频道",宁夏卫视
-http://39.135.138.59:18890/PLTV/88888910/224/3221225726/index.m3u8?fmt=ts2hls
+http://39.135.140.70:6610/PLTV/88888888/224/3221225726/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="卫视频道",山西卫视
-http://39.135.138.5:6610/PLTV/88888888/224/3221225730/index.m3u8
+http://39.135.138.5:6610/PLTV/88888888/224/3221225730/2/index.m3u8
 #EXTINF:-1 group-title="卫视频道",陕西卫视
-http://39.135.138.5:6610/PLTV/88888888/224/3221225729/index.m3u8
+http://39.135.138.5:6610/PLTV/88888888/224/3221225729/2/index.m3u8
 #EXTINF:-1 group-title="卫视频道",云南卫视
-http://39.135.138.59:18890/PLTV/88888910/224/3221225664/index.m3u8?fmt=ts2hls
+http://39.135.140.70:6610/PLTV/88888888/224/3221225664/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="卫视频道",新疆卫视
-http://39.135.138.59:18890/PLTV/88888910/224/3221225725/index.m3u8?fmt=ts2hls
+http://39.135.140.70:6610/PLTV/88888888/224/3221225725/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="卫视频道",青海卫视
-http://39.135.138.59:18890/PLTV/88888910/224/3221225727/index.m3u8?fmt=ts2hls
+http://39.135.140.70:6610/PLTV/88888888/224/3221225727/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="卫视频道",延边卫视
 http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
 #EXTINF:-1 group-title="卫视频道",康巴卫视
 http://scgctvshow.sctv.com/hdlive/kangba/index.m3u8
 #EXTINF:-1 group-title="卫视频道",西藏卫视
-http://39.135.138.5:6610/PLTV/88888888/224/3221225723/index.m3u8
+http://39.135.138.5:6610/PLTV/88888888/224/3221225723/2/index.m3u8
 #EXTINF:-1 group-title="少儿频道",CCTV14
-http://39.135.138.59:18890/PLTV/88888910/224/3221225640/index.m3u8?fmt=ts2hls
+http://39.135.140.70:6610/PLTV/88888888/224/3221225640/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="少儿频道",优漫卡通
 http://223.110.251.152:6610/cntv/live1/youmankaton/youmankaton
 #EXTINF:-1 group-title="少儿频道",卡酷动画
@@ -154,33 +154,33 @@ http://140.207.241.2:8080/live/program/live/qcxj/1300000/mnf.m3u8
 #EXTINF:-1 group-title="娱乐频道",东方财经
 http://140.207.241.2:8080/live/program/live/dfcj/1300000/mnf.m3u8
 #EXTINF:-1 group-title="娱乐频道",超级体育4M
-http://39.135.138.59:18890/PLTV/88888910/224/3221225622/index.m3u8
+http://39.135.140.70:6610/PLTV/88888888/224/3221225622/2/index.m3u8
 #EXTINF:-1 group-title="娱乐频道",超级电影4M
-http://39.135.138.59:18890/PLTV/88888910/224/3221225623/index.m3u8
+http://39.135.140.70:6610/PLTV/88888888/224/3221225623/2/index.m3u8
 #EXTINF:-1 group-title="娱乐频道",超级电视剧4M
-http://39.135.138.59:18890/PLTV/88888910/224/3221225625/index.m3u8
+http://39.135.140.70:6610/PLTV/88888888/224/3221225625/2/index.m3u8
 #EXTINF:-1 group-title="娱乐频道",超级综艺4M
-http://39.135.138.59:18890/PLTV/88888910/224/3221225620/index.m3u8
+http://39.135.140.70:6610/PLTV/88888888/224/3221225620/2/index.m3u8
 #EXTINF:-1 group-title="娱乐频道",超级体育
-http://39.135.138.59:18890/PLTV/88888910/224/3221225767/index.m3u8
+http://39.135.140.70:6610/PLTV/88888888/224/3221225767/2/index.m3u8
 #EXTINF:-1 group-title="娱乐频道",超级电影
-http://39.135.138.59:18890/PLTV/88888910/224/3221225766/index.m3u8
+http://39.135.140.70:6610/PLTV/88888888/224/3221225766/2/index.m3u8
 #EXTINF:-1 group-title="娱乐频道",超级电视剧
-http://39.135.138.59:18890/PLTV/88888910/224/3221225765/index.m3u8
+http://39.135.140.70:6610/PLTV/88888888/224/3221225765/2/index.m3u8
 #EXTINF:-1 group-title="娱乐频道",超级综艺
-http://39.135.138.59:18890/PLTV/88888910/224/3221225768/index.m3u8
+http://39.135.140.70:6610/PLTV/88888888/224/3221225768/2/index.m3u8
 #EXTINF:-1 group-title="娱乐频道",NewTV电竞
-http://39.135.138.59:18890/PLTV/88888910/224/3221225653/index.m3u8
+http://39.135.140.70:6610/PLTV/88888888/224/3221225653/2/index.m3u8
 #EXTINF:-1 group-title="娱乐频道",精品体育
-http://39.135.138.59:18890/PLTV/88888910/224/3221225709/index.m3u8
+http://39.135.140.70:6610/PLTV/88888888/224/3221225709/2/index.m3u8
 #EXTINF:-1 group-title="娱乐频道",精品大剧
-http://39.135.138.59:18890/PLTV/88888910/224/3221225714/index.m3u8
+http://39.135.140.70:6610/PLTV/88888888/224/3221225714/2/index.m3u8
 #EXTINF:-1 group-title="娱乐频道",精品电影
-http://39.135.138.59:18890/PLTV/88888910/224/3221225718/index.m3u8
+http://39.135.140.70:6610/PLTV/88888888/224/3221225718/2/index.m3u8
 #EXTINF:-1 group-title="娱乐频道",精品纪录
-http://39.135.138.59:18890/PLTV/88888910/224/3221225710/index.m3u8
+http://39.135.140.70:6610/PLTV/88888888/224/3221225710/2/index.m3u8
 #EXTINF:-1 group-title="娱乐频道",金牌综艺
-http://39.135.138.59:18890/PLTV/88888910/224/3221225711/index.m3u8
+http://39.135.140.70:6610/PLTV/88888888/224/3221225711/2/index.m3u8
 #EXTINF:-1 group-title="咪咕直播",CCTV1
 http://39.134.216.20/mgsp.live.miguvideo.com:8088/migu/kailu/cctv1hd265/57/20191230/index.m3u8?&encrypt=1
 #EXTINF:-1 group-title="咪咕直播",CCTV2
@@ -753,9 +753,9 @@ http://185.207.176.189:8080/channels/tv-84/playlist.m3u8
 http://www.chahaoquan.com/wz/epg/tvb.php?id=2
 #EXTINF:-1 group-title="测试频道2",无线财经
 http://185.207.176.189:8080/channels/tv-85/playlist.m3u8
-#EXTINF:-1 group-title="测试频道2",无綫新闻, newsevent1
+#EXTINF:-1 group-title="测试频道2",newsevent1
 http://www.chahaoquan.com/wz/epg/tvb.php?id=3
-#EXTINF:-1 group-title="测试频道2",无綫新闻,newsevent2
+#EXTINF:-1 group-title="测试频道2",newsevent2
 http://www.chahaoquan.com/wz/epg/tvb.php?id=4
 #EXTINF:-1 group-title="测试频道2",ViuTVsix
 http://185.207.176.189:8080/channels/tv-96/playlist.m3u8
