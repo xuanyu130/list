@@ -100,9 +100,9 @@ http://39.135.140.70:6610/PLTV/88888888/224/3221225667/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="卫视频道",宁夏卫视
 http://39.135.140.70:6610/PLTV/88888888/224/3221225726/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="卫视频道",山西卫视
-http://39.135.138.5:6610/PLTV/88888888/224/3221225730/2/index.m3u8
+http://39.135.140.70:6610/PLTV/88888888/224/3221225730/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="卫视频道",陕西卫视
-http://39.135.138.5:6610/PLTV/88888888/224/3221225729/2/index.m3u8
+http://39.135.140.70:6610/PLTV/88888888/224/3221225729/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="卫视频道",云南卫视
 http://39.135.140.70:6610/PLTV/88888888/224/3221225664/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="卫视频道",新疆卫视
@@ -110,11 +110,15 @@ http://39.135.140.70:6610/PLTV/88888888/224/3221225725/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="卫视频道",青海卫视
 http://39.135.140.70:6610/PLTV/88888888/224/3221225727/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="卫视频道",延边卫视
-http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
+http://39.135.140.70:6610/PLTV/88888888/224/3221226201/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="卫视频道",康巴卫视
-http://scgctvshow.sctv.com/hdlive/kangba/index.m3u8
+http://39.135.140.70:6610/PLTV/88888888/224/3221226207/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="卫视频道",西藏卫视
-http://39.135.138.5:6610/PLTV/88888888/224/3221225723/2/index.m3u8
+http://39.135.140.70:6610/PLTV/88888888/224/3221225723/2/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="卫视频道",兵团卫视
+http://39.135.140.70:6610/PLTV/88888888/224/3221226200/2/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="卫视频道",农林卫视
+http://39.135.140.70:6610/PLTV/88888888/224/3221226204/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="少儿频道",CCTV14
 http://39.135.140.70:6610/PLTV/88888888/224/3221225640/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="少儿频道",优漫卡通
