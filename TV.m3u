@@ -1,40 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="江苏移动源",CCTV1
-http://183.207.248.71/ott.js.chinamobile.com/PLTV/3/224/3221227634/index.m3u8
-#EXTINF:-1 group-title="江苏移动源",RHK33
-https://cdn.hkdtmb.com/hls/33/index.m3u8
-#EXTINF:-1 group-title="江苏移动源",CCTV2
-http://183.207.248.71/ott.js.chinamobile.com/PLTV/3/224/3221227696/index.m3u8
-#EXTINF:-1 group-title="江苏移动源",CCTV3
-http://183.207.248.71/ott.js.chinamobile.com/PLTV/3/224/3221227650/index.m3u8
-#EXTINF:-1 group-title="江苏移动源",CCTV4
-http://183.207.248.71/ott.js.chinamobile.com/PLTV/3/224/3221227658/index.m3u8
-#EXTINF:-1 group-title="江苏移动源",CCTV5
-http://183.207.248.71/ott.js.chinamobile.com/PLTV/3/224/3221227661/index.m3u8
-#EXTINF:-1 group-title="江苏移动源",CCTV5+
-http://183.207.248.71/ott.js.chinamobile.com/PLTV/3/224/3221227631/index.m3u8
-#EXTINF:-1 group-title="江苏移动源",CCTV6
-http://183.207.248.71/ott.js.chinamobile.com/PLTV/3/224/3221227664/index.m3u8
-#EXTINF:-1 group-title="江苏移动源",CCTV7
-http://183.207.248.71/ott.js.chinamobile.com/PLTV/3/224/3221227690/index.m3u8
-#EXTINF:-1 group-title="江苏移动源",CCTV8
-http://183.207.248.71/ott.js.chinamobile.com/PLTV/3/224/3221227629/index.m3u8
-#EXTINF:-1 group-title="江苏移动源",CCTV9
-http://183.207.248.71/ott.js.chinamobile.com/PLTV/3/224/3221227614/index.m3u8
-#EXTINF:-1 group-title="江苏移动源",CCTV10
-http://183.207.248.71/ott.js.chinamobile.com/PLTV/3/224/3221227620/index.m3u8
-#EXTINF:-1 group-title="江苏移动源",CCTV11
-http://183.207.248.71/ott.js.chinamobile.com/PLTV/3/224/3221227720/index.m3u8
-#EXTINF:-1 group-title="江苏移动源",CCTV12
-http://183.207.248.71/ott.js.chinamobile.com/PLTV/3/224/3221227637/index.m3u8
-#EXTINF:-1 group-title="江苏移动源",CCTV13
-http://183.207.248.71/ott.js.chinamobile.com/PLTV/3/224/3221227601/index.m3u8
-#EXTINF:-1 group-title="江苏移动源",CCTV14
-http://183.207.248.71/ott.js.chinamobile.com/PLTV/3/224/3221227693/index.m3u8
-#EXTINF:-1 group-title="江苏移动源",CCTV15
-http://183.207.248.71/ott.js.chinamobile.com/PLTV/3/224/3221227723/index.m3u8
-#EXTINF:-1 group-title="江苏移动源",CCTV17
-http://183.207.248.71/ott.js.chinamobile.com/PLTV/3/224/3221227726/index.m3u8
 #EXTINF:-1 group-title="江苏移动源",湖南卫视
 http://183.207.248.71/ott.js.chinamobile.com/PLTV/3/224/3221227735/index.m3u8
 #EXTINF:-1 group-title="江苏移动源",浙江卫视
@@ -54,7 +18,7 @@ http://183.207.248.71/ott.js.chinamobile.com/PLTV/3/224/3221227624/index.m3u8
 #EXTINF:-1 group-title="江苏移动源",辽宁卫视
 http://183.207.248.71/ott.js.chinamobile.com/PLTV/3/224/3221227676/index.m3u8
 #EXTINF:-1 group-title="江苏移动源",海南卫视
-http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228294/1/index.m3u8?fmt=ts2hls
+http://183.207.248.71/ott.js.chinamobile.com/PLTV/3/224/3221228101/index.m3u8
 #EXTINF:-1 group-title="江苏移动源",山东卫视
 http://183.207.248.71/ott.js.chinamobile.com/PLTV/3/224/3221227671/index.m3u8
 #EXTINF:-1 group-title="江苏移动源",天津卫视
@@ -92,7 +56,7 @@ http://183.207.248.71/ott.js.chinamobile.com/PLTV/3/224/3221227571/index.m3u8
 #EXTINF:-1 group-title="江苏移动源",新疆卫视
 http://183.207.248.71/ott.js.chinamobile.com/PLTV/3/224/3221227627/index.m3u8
 #EXTINF:-1 group-title="江苏移动源",青海卫视
-http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228287/1/index.m3u8?fmt=ts2hls
+http://183.207.248.71/ott.js.chinamobile.com/PLTV/3/224/3221227554/index.m3u8
 #EXTINF:-1 group-title="江苏移动源",延边卫视
 http://183.207.248.71/ott.js.chinamobile.com/PLTV/3/224/3221227590/index.m3u8
 #EXTINF:-1 group-title="江苏移动源",康巴卫视
