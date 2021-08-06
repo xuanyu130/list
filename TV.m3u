@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 group-title="江苏移动源",CCTV1
 http://183.207.248.71/ott.js.chinamobile.com/PLTV/3/224/3221227634/index.m3u8
+#EXTINF:-1 group-title="江苏移动源",RHK33
+https://cdn.hkdtmb.com/hls/33/index.m3u8
 #EXTINF:-1 group-title="江苏移动源",CCTV2
 http://183.207.248.71/ott.js.chinamobile.com/PLTV/3/224/3221227696/index.m3u8
 #EXTINF:-1 group-title="江苏移动源",CCTV3
