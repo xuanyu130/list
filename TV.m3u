@@ -103,6 +103,102 @@ http://183.207.248.71/ott.js.chinamobile.com/PLTV/3/224/3221227562/index.m3u8
 http://183.207.248.71/ott.js.chinamobile.com/PLTV/3/224/3221227654/index.m3u8
 #EXTINF:-1 group-title="江苏移动源",农林卫视
 http://183.207.248.71/ott.js.chinamobile.com/PLTV/3/224/3221227648/index.m3u8
+#EXTINF:-1 group-title="浙江移动源",CCTV1
+http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229818/index.m3u8
+#EXTINF:-1 group-title="浙江移动源",CCTV2
+http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230716/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="浙江移动源",CCTV3
+http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230740/index.m3u8
+#EXTINF:-1 group-title="浙江移动源",CCTV4
+http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229749/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="浙江移动源",CCTV5
+http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229791/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="浙江移动源",CCTV5+
+http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229684/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="浙江移动源",CCTV6
+http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230685/index.m3u8
+#EXTINF:-1 group-title="浙江移动源",CCTV7
+http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228330/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="浙江移动源",CCTV8
+http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230737/index.m3u8
+#EXTINF:-1 group-title="浙江移动源",CCTV9
+http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228342/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="浙江移动源",CCTV10
+http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228513/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="浙江移动源",CCTV11
+http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228297/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="浙江移动源",CCTV12
+http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228485/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="浙江移动源",CCTV13
+http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221231193/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="浙江移动源",CCTV14
+http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230701/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="浙江移动源",CCTV15
+http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230658/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="浙江移动源",CCTV17
+http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229765/index.m3u8
+#EXTINF:-1 group-title="浙江移动源",湖南卫视
+http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230695/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="浙江移动源",浙江卫视
+http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230035/index.m3u8
+#EXTINF:-1 group-title="浙江移动源",江苏卫视
+http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230698/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="浙江移动源",北京卫视
+http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228321/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="浙江移动源",东方卫视
+http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230689/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="浙江移动源",安徽卫视
+http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230707/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="浙江移动源",广东卫视
+http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230661/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="浙江移动源",深圳卫视
+http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230676/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="浙江移动源",辽宁卫视
+http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230692/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="浙江移动源",海南卫视
+http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228294/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="浙江移动源",山东卫视
+http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230652/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="浙江移动源",天津卫视
+http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228818/index.m3u8
+#EXTINF:-1 group-title="浙江移动源",重庆卫视
+http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228296/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="浙江移动源",东南卫视
+http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221231261/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="浙江移动源",广西卫视
+http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221231292/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="浙江移动源",贵州卫视
+http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221231267/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="浙江移动源",河北卫视
+http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221231270/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="浙江移动源",黑龙江卫视
+http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228827/index.m3u8
+#EXTINF:-1 group-title="浙江移动源",河南卫视
+http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221231264/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="浙江移动源",湖北卫视
+http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230670/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="浙江移动源",江西卫视
+http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230667/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="浙江移动源",四川卫视
+http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221231298/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="浙江移动源",内蒙古卫视
+http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228339/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="浙江移动源",宁夏卫视
+http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228263/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="浙江移动源",山西卫视
+http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228291/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="浙江移动源",陕西卫视
+http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228272/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="浙江移动源",云南卫视
+http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228303/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="浙江移动源",新疆卫视
+http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228326/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="浙江移动源",青海卫视
+http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228287/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="浙江移动源",西藏卫视
+http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228345/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="浙江移动源",兵团卫视
+http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228419/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="江西移动源",CCTV1
 http://39.135.140.70:6610/PLTV/88888888/224/3221225642/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="江西移动源",CCTV2
