@@ -28,11 +28,13 @@ http://183.207.248.71/ott.js.chinamobile.com/PLTV/3/224/3221227720/index.m3u8
 #EXTINF:-1 tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2016/1/25/1453690839834_489.png" group-title="江苏移动源",CCTV12
 http://183.207.248.71/ott.js.chinamobile.com/PLTV/3/224/3221227637/index.m3u8
 #EXTINF:-1 tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2016/1/25/1453690846155_999.png" group-title="江苏移动源",CCTV13
-http://183.207.248.71/ott.js.chinamobile.com/PLTV/3/224/3221227601/index.m3u8
+http://183.207.248.71/ott.js.chinamobile.com/PLTV/3/224/3221225560/index.m3u8
 #EXTINF:-1 tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2016/1/25/1453690851927_207.png" group-title="江苏移动源",CCTV14
 http://183.207.248.71/ott.js.chinamobile.com/PLTV/3/224/3221227693/index.m3u8
 #EXTINF:-1 tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2016/1/25/1453690858316_436.png" group-title="江苏移动源",CCTV15
 http://183.207.248.71/ott.js.chinamobile.com/PLTV/3/224/3221227723/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="江苏移动源",CCTV16
+http://223.110.244.77/ott.js.chinamobile.com/PLTV/3/224/3221228144/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="江苏移动源",CCTV17
 http://183.207.248.71/ott.js.chinamobile.com/PLTV/3/224/3221227726/index.m3u8
 #EXTINF:-1 tvg-logo="http://s0.xiaomitv.cc/pic/hunanweishi.jpg" group-title="江苏移动源",湖南卫视
@@ -229,6 +231,8 @@ http://39.135.140.162:6610/PLTV/88888888/224/3221225638/2/index.m3u8?fmt=ts2hls
 http://39.135.140.162:6610/PLTV/88888888/224/3221225640/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2016/1/25/1453690858316_436.png" group-title="江西移动源",CCTV15
 http://39.135.140.162:6610/PLTV/88888888/224/3221225641/2/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-logo="" group-title="江西移动源",CCTV16
+http://39.135.138.58:18890/PLTV/88888888/224/3221226233/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="江西移动源",CCTV17
 http://39.135.140.162:6610/PLTV/88888888/224/3221225909/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-logo="" group-title="江西移动源",CCTV4 欧洲
@@ -379,292 +383,138 @@ http://39.135.140.162:6610/PLTV/88888888/224/3221225718/2/index.m3u8
 http://39.135.140.162:6610/PLTV/88888888/224/3221225710/2/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="娱乐频道",金牌综艺
 http://39.135.140.162:6610/PLTV/88888888/224/3221225711/2/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="港澳台电视",凤凰卫视中文台
+#EXTINF:-1 tvg-logo="" group-title="港澳台频道",凤凰卫视中文台
 http://117.169.124.43:6610/ysten-businessmobile/live/fhchinese/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="港澳台电视",凤凰卫视资讯台
+#EXTINF:-1 tvg-logo="" group-title="港澳台频道",凤凰卫视资讯台
 http://117.169.124.43:6610/ysten-businessmobile/live/fhzixun/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="港澳台电视",凤凰卫视香港台
+#EXTINF:-1 tvg-logo="" group-title="港澳台频道",凤凰卫视香港台
 http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="港澳台电视",澳视澳门
+#EXTINF:-1 tvg-logo="" group-title="港澳台频道",澳视澳门
 http://61.244.22.5/ch1/_definst_/ch1.live/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="港澳台电视",澳门卫星
+#EXTINF:-1 tvg-logo="" group-title="港澳台频道",澳门卫星
 http://61.244.22.5/ch3/_definst_/ch3.live/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="港澳台电视",澳门资讯
+#EXTINF:-1 tvg-logo="" group-title="港澳台频道",澳门资讯
 http://61.244.22.5/ch5/_definst_/info_ch5.live/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="港澳台电视",RHK31
+#EXTINF:-1 tvg-logo="" group-title="港澳台频道",RHK31
 https://cdn.hkdtmb.com/hls/31/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="港澳台电视",RHK32
+#EXTINF:-1 tvg-logo="" group-title="港澳台频道",RHK32
 https://cdn.hkdtmb.com/hls/32/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="港澳台电视",RHK33
+#EXTINF:-1 tvg-logo="" group-title="港澳台频道",RHK33
 https://cdn.hkdtmb.com/hls/33/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="港澳台电视",香港开电视
+#EXTINF:-1 tvg-logo="" group-title="港澳台频道",香港开电视
 https://cdn.hkdtmb.com/hls/77/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="港澳台电视",香港国际财经台
+#EXTINF:-1 tvg-logo="" group-title="港澳台频道",香港国际财经台
 https://cdn.hkdtmb.com/hls/76/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="港澳台电视",翡翠台
+#EXTINF:-1 tvg-logo="" group-title="港澳台频道",翡翠台
 https://cdn.hkdtmb.com/hls/81/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="港澳台电视",J2台
+#EXTINF:-1 tvg-logo="" group-title="港澳台频道",J2台
 https://cdn.hkdtmb.com/hls/82/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="港澳台电视",无线新闻台
+#EXTINF:-1 tvg-logo="" group-title="港澳台频道",无线新闻台
 https://cdn.hkdtmb.com/hls/83/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="港澳台电视",明珠台
+#EXTINF:-1 tvg-logo="" group-title="港澳台频道",明珠台
 https://cdn.hkdtmb.com/hls/84/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="港澳台电视",无限财经·资讯台
+#EXTINF:-1 tvg-logo="" group-title="港澳台频道",无限财经·资讯台
 https://cdn.hkdtmb.com/hls/85/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="港澳台电视",ViuTV
+#EXTINF:-1 tvg-logo="" group-title="港澳台频道",ViuTV
 https://cdn.hkdtmb.com/hls/99/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="港澳台电视",ViuTV Six
+#EXTINF:-1 tvg-logo="" group-title="港澳台频道",ViuTV Six
 https://cdn.hkdtmb.com/hls/96/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="港澳台电视",民视
-rtmp://59.124.75.138/sat/tv051
-#EXTINF:-1 tvg-logo="" group-title="港澳台电视",台视
-rtmp://59.124.75.138/sat/tv071
-#EXTINF:-1 tvg-logo="" group-title="港澳台电视",中视
-rtmp://59.124.75.138/sat/tv091
-#EXTINF:-1 tvg-logo="" group-title="港澳台电视",华视
-rtmp://59.124.75.138/sat/tv111
-#EXTINF:-1 tvg-logo="" group-title="港澳台电视",民视
+#EXTINF:-1 tvg-logo="" group-title="港澳台频道",民视
+rtmp://59.124.75.136/sat/tv051
+#EXTINF:-1 tvg-logo="" group-title="港澳台频道",台视
+rtmp://59.124.75.136/sat/tv071
+#EXTINF:-1 tvg-logo="" group-title="港澳台频道",中视
+rtmp://59.124.75.136/sat/tv091
+#EXTINF:-1 tvg-logo="" group-title="港澳台频道",华视
+rtmp://59.124.75.136/sat/tv111
+#EXTINF:-1 tvg-logo="" group-title="港澳台频道",民视
 http://50.7.61.147:30080/Entry/ftv
-#EXTINF:-1 tvg-logo="" group-title="港澳台电视",台视
+#EXTINF:-1 tvg-logo="" group-title="港澳台频道",台视
 http://50.7.61.148:30080/Entry/ttv
-#EXTINF:-1 tvg-logo="" group-title="港澳台电视",中视
+#EXTINF:-1 tvg-logo="" group-title="港澳台频道",中视
 http://50.7.61.148:30080/Entry/ctv
-#EXTINF:-1 tvg-logo="" group-title="港澳台电视",华视
+#EXTINF:-1 tvg-logo="" group-title="港澳台频道",华视
 http://50.7.61.147:30080/Entry/cts
-#EXTINF:-1 tvg-logo="" group-title="测试频道",Animax HD
-https://livecdn.fptplay.net/hda3/animaxport_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-logo="" group-title="测试频道",Animax Japan (Vietnamese Subs)[1280*720]
-https://livecdn.fptplay.net/hda3/animaxport_2000.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="测试频道",AnimaxHD
-https://livecdn.fptplay.net/hda3/animaxport_2000.stream/.m3u8
-#EXTINF:-1 tvg-logo="" group-title="测试频道",Arena
-http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="测试频道",arirang
-http://amdlive.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/.m3u8
-#EXTINF:-1 tvg-logo="" group-title="测试频道",arirang
-http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/.m3u8
-#EXTINF:-1 tvg-logo="" group-title="测试频道",Arirang Korea
-http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="测试频道",Arirang
-http://amdlive-ch03.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/chunklist_b1728000_sleng.m3u8
-#EXTINF:-1 tvg-logo="" group-title="测试频道",Arirang
-http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="测试频道",Astro AOD
-http://50.7.161.82:8277/streams/d/aod_pye/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="测试频道",Astro Awani
-https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="测试频道",Astro Awani
-http://50.7.161.82:8278/streams/d/Awani/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="测试频道",Astro Ceria
-http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="测试频道",Astro Citra
-http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="测试频道",Astro IQIYI
-http://50.7.161.82:8277/streams/d/iqiyi_pye/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="测试频道",Astro Oasis
-http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="测试频道",Astro Prima
-http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="测试频道",Astro Ria
-http://50.7.161.82:8278/streams/d/ria_pye/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="测试频道",Astro Warna
-http://190.2.133.47:8278/streams/d/Warna/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="测试频道",Astro WWE
-http://50.7.161.82:8278/streams/d/wwe_pye/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="测试频道",Astro双星ᴴᴰ
-http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="测试频道",Astro港剧台
-http://50.7.161.82:8278/streams/d/aod_pye/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="测试频道",AXN
-http://50.7.61.148:30080/Entry/axn
-#EXTINF:-1 tvg-logo="" group-title="测试频道",BBC 1
-http://93.190.139.35:8278/streams/d/bbc1_antik/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="测试频道",BBC 2
-http://93.190.139.35:8278/streams/d/bbc2_antik/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="测试频道",BBC NEWS
-http://93.190.139.35:8278/streams/d/bbcworldnews_antik/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="测试频道",BBCWorldNews
-http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="测试频道",Bein sport 5
-http://str.smartip-tv.net:8888/BEIN_SPORT_5_HD/index.m3u8?token=test
-#EXTINF:-1 tvg-logo="" group-title="测试频道",Bernama TV
-http://50.7.161.82:8278/streams/d/Bernama/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="测试频道",Bloomberg Asia
-https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8
-#EXTINF:-1 tvg-logo="" group-title="测试频道",Bloomberg US
-https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
-#EXTINF:-1 tvg-logo="" group-title="测试频道",BOO
-http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="测试频道",Canal Macau
-http://live4.tdm.com.mo/ch2/_definst_/ch2.live/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="测试频道",Canal Macau
-http://live4.tdm.com.mo:80/ch2/_definst_/ch2.live/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="测试频道",CBSN
-http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="测试频道",CCTV5+39
-http://39.135.138.60:18890/PLTV/88888910/224/3221225649/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="测试频道",CCTV5+117
-http://117.169.124.46:6410/ysten-businessmobile/live/hdcctv05plus/1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="测试频道",CCTV5-39
-http://39.135.138.60:18890/PLTV/88888910/224/3221225633/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="测试频道",CCTV5-39-1
-http://39.135.32.24:6610/000000001000/1000000001000004794/index.m3u8?i
-#EXTINF:-1 tvg-logo="" group-title="测试频道",Celestial天映频道
-http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="测试频道",CGNTV Japan[1280*720]
-http://cgntv-glive.ofsdelivery.net/live/cgntv_jp/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="测试频道",Channel News Asia
-http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 tvg-logo="" group-title="测试频道",China tv1
-http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
-#EXTINF:-1 tvg-logo="" group-title="测试频道",China tv2
-http://hw-m-l.cztv.com/channels/lantian/channel02/1080p.m3u8
-#EXTINF:-1 tvg-logo="" group-title="测试频道",CNBC 18
-https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
-#EXTINF:-1 tvg-logo="" group-title="测试频道",Cnex[640*360]
-http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv013
-#EXTINF:-1 tvg-logo="" group-title="测试频道",CNN
-http://218.202.220.2:5000/nn_live.ts?id=CNN
-#EXTINF:-1 tvg-logo="" group-title="测试频道",CNN
-https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="测试频道",CNN
-http://93.190.139.35:8278/streams/d/cnn_antik/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="测试频道",CN卡通
-http://125.227.210.37:16671/VideoInput/play.ts
-#EXTINF:-1 tvg-logo="" group-title="测试频道",DaAi
-https://pulltv3.wanfudaluye.com/live/tv3.m3u8
-#EXTINF:-1 tvg-logo="" group-title="测试频道",Drama Sangat
-http://50.7.161.82:8278/streams/d/Dsangat/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="测试频道",ELEVEN1(soccer)
-http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="测试频道",ESPN (720p)
-https://content.uplynk.com/channel/d0695f6fa2f143eb95c7a41d96d581c4.m3u8
-#EXTINF:-1 tvg-logo="" group-title="测试频道",Euronews
-http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist_2m.m3u8
-#EXTINF:-1 tvg-logo="" group-title="测试频道",FashionTV
-http://lb.streaming.sk/fashiontv/stream/chunklist_w1402273512.m3u8
-#EXTINF:-1 tvg-logo="" group-title="测试频道",FashionTV
-http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
-#EXTINF:-1 tvg-logo="" group-title="测试频道",FashionTV
-https://fashiontv-fashiontv-4-de.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="测试频道",Fox News
-http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="测试频道",FOX Sport HD 1
-https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="测试频道",FOX频道
-http://125.227.210.37:13498/VideoInput/play.ts
-#EXTINF:-1 tvg-logo="" group-title="测试频道",FRANCE
-http://58.99.33.16:1935/liveedge17/live_156_3.stream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="测试频道",France 24
-http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
-#EXTINF:-1 tvg-logo="" group-title="测试频道",HBO
-http://50.7.61.148:30080/Entry/hbo
-#EXTINF:-1 tvg-logo="" group-title="测试频道",HBO
-http://125.227.210.37:16027/VideoInput/play.ts
-#EXTINF:-1 tvg-logo="" group-title="测试频道",HBOHD
-http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="测试频道",HGTV居家乐活
-http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="测试频道",HKC有线新闻台
-https://api.leonardpark.dev/live/icable/109
-#EXTINF:-1 tvg-logo="" group-title="测试频道",HKC有线直播新闻台
-https://api.leonardpark.dev/live/icable/110
-#EXTINF:-1 tvg-logo="" group-title="测试频道",HKC有线财经资讯台
-https://api.leonardpark.dev/live/icable/108
-#EXTINF:-1 tvg-logo="" group-title="测试频道",Jasmin TV
-http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="测试频道",JET综合
-http://50.7.61.147:30080/Entry/jet
-#EXTINF:-1 tvg-logo="" group-title="测试频道",KBC(SBS 光州)
-http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="测试频道",KBS World
-https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-logo="" group-title="测试频道",KBS World50
-http://50.7.161.82:8278/streams/d/KBS/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="测试频道",KCTV 광주 CH05[1280*720]
-http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
-#EXTINF:-1 tvg-logo="" group-title="测试频道",Maah TV
-http://51.210.199.33/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="" group-title="测试频道",MAVlife
-http://58.99.33.16:1935/liveedge17/live_070_3.stream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="测试频道",MBC
-http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="测试频道",momo综合台
-http://58.99.33.16:1935/liveedge17/live_075_3.stream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="测试频道",MTN[1280*720]
-http://183.110.27.87/mtnlive/_definst_/720/chunklist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="测试频道",MTV
-http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-p.m3u8
-#EXTINF:-1 tvg-logo="" group-title="测试频道",MTVBiggestPop
-http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="测试频道",MTVBlockParty
-http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="测试频道",MTVSpankinNew
-http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="测试频道",MTVWMA
-http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="测试频道",NASA Media Channel
-https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master_2000.m3u8
-#EXTINF:-1 tvg-logo="" group-title="测试频道",NASA Public Channel
-https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
-#EXTINF:-1 tvg-logo="" group-title="测试频道",NAT GEO wild
-http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="测试频道",Naura HD
-http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="测试频道",NBS Korea Agricultural Broadcasting[1280*720]
-https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="测试频道",NDTV 24X7
-https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="测试频道",New Japan Pro Wrestling World[1280*720]
-https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/playlist_DVR.m3u8
-#EXTINF:-1 tvg-logo="" group-title="测试频道",NHK
-http://58.99.33.16:1935/liveedge17/live_108_3.stream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="测试频道",NHK
-https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
-#EXTINF:-1 tvg-logo="" group-title="测试频道",NHK
-https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="测试频道",Nippon TV News24 Japan
-https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="测试频道",now SPORTS PRIME
-http://livetv.dnsfor.me:80/channel.12.m3u8
-#EXTINF:-1 tvg-logo="" group-title="测试频道",Now Sports Prime 630
-http://livetv.dnsfor.me/channel.12.m3u8
-#EXTINF:-1 tvg-logo="" group-title="测试频道",Now直播331台
-https://api.leonardpark.dev/live/now/331
-#EXTINF:-1 tvg-logo="" group-title="测试频道",NTV 7
-http://50.7.161.82:8278/streams/d/Rtmntv7/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="测试频道",Oh!K hd
-http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="测试频道",RFA 1
-https://rfahls-i.akamaihd.net/hls/live/226232/RFALive_1/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="测试频道",RFI 法国国际广播电台
-https://rfienchinois64k.ice.infomaniak.ch/rfienchinois-64.mp3
-#EXTINF:-1 tvg-logo="" group-title="测试频道",RTM Sports [HEVC]
-http://50.7.161.82:8278/streams/d/rtm_pye/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="测试频道",SET三立台湾
-http://50.7.61.148:30080/Entry/settw-
-#EXTINF:-1 tvg-logo="" group-title="测试频道",SkyNews
-https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8
-#EXTINF:-1 tvg-logo="" group-title="测试频道",SKYnews
-https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/05.m3u8
-#EXTINF:-1 tvg-logo="" group-title="测试频道",Sony One50
-http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="测试频道",SPORTS1
-https://95-213-224-183.livesports24.online/sport1ua.m3u8
-#EXTINF:-1 tvg-logo="" group-title="测试频道",Stadium UFC
-https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="测试频道",TDM Info. Macau (720p)
-http://live4.tdm.com.mo:80/ch5/_definst_/info_ch5.live/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="测试频道",TDM Macau (720p)
-http://live4.tdm.com.mo:80/ch1/_definst_/ch1.live/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="测试频道",TDM Macau Satelite (720p)
-http://live4.tdm.com.mo:80/ch3/_definst_/ch3.live/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="测试频道",TJB SBS
-http://1.245.74.5:1935/live/tv/.m3u8
-#EXTINF:-1 tvg-logo="" group-title="测试频道",TLC
-http://50.7.61.147:30080/Entry/tlc
-#EXTINF:-1 tvg-logo="" group-title="测试频道",TRT World
-https://api.trtworld.com/livestream/v1/WcM3Oa2LHD9iUjWDSRUI335NkMWVTUV351H56dqC/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="台湾频道rtmp",民视
+rtmp://59.124.75.136/sat/tv051
+#EXTINF:-1 tvg-logo="" group-title="台湾频道rtmp",台视
+rtmp://59.124.75.136/sat/tv071
+#EXTINF:-1 tvg-logo="" group-title="台湾频道rtmp",中视
+rtmp://59.124.75.136/sat/tv091
+#EXTINF:-1 tvg-logo="" group-title="台湾频道rtmp",华视
+rtmp://59.124.75.136/sat/tv111
+#EXTINF:-1 tvg-logo="" group-title="台湾频道rtmp",TVBS欢乐台
+rtmp://161.202.204.248:1935/sat/tv421
+#EXTINF:-1 tvg-logo="" group-title="台湾频道rtmp",TVBS欢乐台
+rtmp://59.124.75.136:1935/sat/tv421
+#EXTINF:-1 tvg-logo="" group-title="台湾频道rtmp",TVBS新闻台
+rtmp://161.202.204.248:1935/sat/tv551
+#EXTINF:-1 tvg-logo="" group-title="台湾频道rtmp",TVBS新闻台
+rtmp://59.124.75.136:1935/sat/tv551
+#EXTINF:-1 tvg-logo="" group-title="台湾频道rtmp",TVBS欢乐台(备)
+rtmp://59.124.75.136/sat/tv421
+#EXTINF:-1 tvg-logo="" group-title="台湾频道rtmp",东森财经新闻
+rtmp://59.124.75.136:1935/sat/tv571
+#EXTINF:-1 tvg-logo="" group-title="台湾频道rtmp",纬来日本
+rtmp://59.124.75.136/sat/tv771
+#EXTINF:-1 tvg-logo="" group-title="台湾频道rtmp",纬来育乐
+rtmp://59.124.75.136/sat/tv701
+#EXTINF:-1 tvg-logo="" group-title="台湾频道rtmp",纬来体育
+rtmp://59.124.75.136/sat/tv721
+#EXTINF:-1 tvg-logo="" group-title="台湾频道rtmp",ELEVEN1
+rtmp://59.124.75.136:1935/sat/tv731
+#EXTINF:-1 tvg-logo="" group-title="台湾频道rtmp",ELEVEN2
+rtmp://59.124.75.136:1935/sat/tv741
+#EXTINF:-1 tvg-logo="" group-title="台湾频道rtmp",MoMo综合台
+rtmp://59.124.75.136/sat/tv761
+#EXTINF:-1 tvg-logo="" group-title="台湾频道rtmp",东森超视
+rtmp://59.124.75.136/sat/tv521
+#EXTINF:-1 tvg-logo="" group-title="台湾频道rtmp",博斯魅力
+rtmp://59.124.75.136/sat/md011
+#EXTINF:-1 tvg-logo="" group-title="台湾频道rtmp",爱尔达体育1
+rtmp://59.124.75.136/sat/md021
+#EXTINF:-1 tvg-logo="" group-title="台湾频道rtmp",爱尔达体育2
+rtmp://59.124.75.136/sat/md031
+#EXTINF:-1 tvg-logo="" group-title="台湾频道rtmp",爱尔达体育1台
+rtmp://59.124.75.136/sat/md041
+#EXTINF:-1 tvg-logo="" group-title="台湾频道rtmp",爱尔达体育3台
+rtmp://59.124.75.136/sat/md021
+#EXTINF:-1 tvg-logo="" group-title="台湾频道rtmp",爱尔达体育3台
+rtmp://59.124.75.136/sat/md031
+#EXTINF:-1 tvg-logo="" group-title="台湾频道rtmp",爱尔达体育2台
+rtmp://59.124.75.136/sat/md051
+#EXTINF:-1 tvg-logo="" group-title="台湾频道rtmp",爱尔达体育1台
+rtmp://59.124.75.136/sat/md011
+#EXTINF:-1 tvg-logo="" group-title="台湾频道rtmp",博斯运动2
+rtmp://59.124.75.136/sat/md051
+#EXTINF:-1 tvg-logo="" group-title="台湾频道rtmp",东森超视
+rtmp://59.124.75.136:1935/sat/tv521
+#EXTINF:-1 tvg-logo="" group-title="台湾频道rtmp",爱尔达体育2
+rtmp://59.124.75.136:1935/sat/md031
+#EXTINF:-1 tvg-logo="" group-title="台湾频道rtmp",ELEVEN2体育
+rtmp://59.124.75.136:1935/sat/md041
+#EXTINF:-1 tvg-logo="" group-title="台湾频道rtmp",ELEVEN体育
+rtmp://59.124.75.136/sat/md041
+#EXTINF:-1 tvg-logo="" group-title="台湾频道rtmp",纬来育乐台
+rtmp://59.124.75.136/sat/tv701
+#EXTINF:-1 tvg-logo="" group-title="台湾频道rtmp",ELEVEN体育一台
+rtmp://59.124.75.136:1935/sat/tv731
+#EXTINF:-1 tvg-logo="" group-title="台湾频道rtmp",ELEVEN体育二台
+rtmp://59.124.75.136:1935/sat/tv741
+#EXTINF:-1 tvg-logo="" group-title="台湾频道rtmp",MOMO追剧台
+rtmp://59.124.75.136:1935/sat/tv761
+#EXTINF:-1 tvg-logo="" group-title="台湾频道rtmp",有线18台
+rtmp://161.202.204.248/sat/hk041
+#EXTINF:-1 tvg-logo="" group-title="台湾频道rtmp",ELEVEN2体育
+rtmp://59.124.75.136:1935/sat/md041
+#EXTINF:-1 tvg-logo="" group-title="台湾频道rtmp",ELEVEN体育
+rtmp://59.124.75.136/sat/md041
+#EXTINF:-1 tvg-logo="" group-title="台湾频道rtmp",纬来育乐台
+rtmp://59.124.75.136/sat/tv701
+#EXTINF:-1 tvg-logo="" group-title="台湾频道rtmp",ELEVEN体育一台
+rtmp://59.124.75.136:1935/sat/tv731
+#EXTINF:-1 tvg-logo="" group-title="台湾频道rtmp",ELEVEN体育二台
+rtmp://59.124.75.136:1935/sat/tv741
 #EXTINF:-1 tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2016/1/25/1453690621284_114.png" group-title="测试频道",TV1
 http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2016/1/25/1453690628754_865.png" group-title="测试频道",TV2
@@ -1037,7 +887,7 @@ http://125.227.210.37:14250/VideoInput/play.ts
 http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv018
 #EXTINF:-1 tvg-logo="" group-title="测试频道",开电视
 http://livetv.dnsfor.me:80/channel.9.m3u8
-#EXTINF:-1 tvg-logo="" group-title="测试频道",阳光卫视
+#EXTINF:-1 tvg-logo="http://p2.ifengimg.com/a/2017/1027/vLogo.jpg" group-title="测试频道",阳光卫视
 https://stream.isuntv.com/680k/mid_video_index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="测试频道",靖天日本[640*360]
 http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv048
@@ -1081,3 +931,237 @@ http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8$JS
 http://117.169.120.138:8080/live/fhzixun/.m3u8
 #EXTINF:-1 tvg-logo="" group-title="测试频道",龙华偶像台
 http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn12
+#EXTINF:-1 tvg-logo="" group-title="测试频道",Animax HD
+https://livecdn.fptplay.net/hda3/animaxport_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-logo="" group-title="测试频道",Animax Japan (Vietnamese Subs)[1280*720]
+https://livecdn.fptplay.net/hda3/animaxport_2000.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="测试频道",AnimaxHD
+https://livecdn.fptplay.net/hda3/animaxport_2000.stream/.m3u8
+#EXTINF:-1 tvg-logo="" group-title="测试频道",Arena
+http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="测试频道",arirang
+http://amdlive.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/.m3u8
+#EXTINF:-1 tvg-logo="" group-title="测试频道",arirang
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/.m3u8
+#EXTINF:-1 tvg-logo="" group-title="测试频道",Arirang Korea
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="测试频道",Arirang
+http://amdlive-ch03.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/chunklist_b1728000_sleng.m3u8
+#EXTINF:-1 tvg-logo="" group-title="测试频道",Arirang
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="测试频道",Astro AOD
+http://50.7.161.82:8277/streams/d/aod_pye/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="测试频道",Astro Awani
+https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="测试频道",Astro Awani
+http://50.7.161.82:8278/streams/d/Awani/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="测试频道",Astro Ceria
+http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="测试频道",Astro Citra
+http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="测试频道",Astro IQIYI
+http://50.7.161.82:8277/streams/d/iqiyi_pye/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="测试频道",Astro Oasis
+http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="测试频道",Astro Prima
+http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="测试频道",Astro Ria
+http://50.7.161.82:8278/streams/d/ria_pye/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="测试频道",Astro Warna
+http://190.2.133.47:8278/streams/d/Warna/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="测试频道",Astro WWE
+http://50.7.161.82:8278/streams/d/wwe_pye/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="测试频道",Astro双星ᴴᴰ
+http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="测试频道",Astro港剧台
+http://50.7.161.82:8278/streams/d/aod_pye/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="测试频道",AXN
+http://50.7.61.148:30080/Entry/axn
+#EXTINF:-1 tvg-logo="" group-title="测试频道",BBC 1
+http://93.190.139.35:8278/streams/d/bbc1_antik/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="测试频道",BBC 2
+http://93.190.139.35:8278/streams/d/bbc2_antik/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="测试频道",BBC NEWS
+http://93.190.139.35:8278/streams/d/bbcworldnews_antik/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="测试频道",BBCWorldNews
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="测试频道",Bein sport 5
+http://str.smartip-tv.net:8888/BEIN_SPORT_5_HD/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="" group-title="测试频道",Bernama TV
+http://50.7.161.82:8278/streams/d/Bernama/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="测试频道",Bloomberg Asia
+https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8
+#EXTINF:-1 tvg-logo="" group-title="测试频道",Bloomberg US
+https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
+#EXTINF:-1 tvg-logo="" group-title="测试频道",BOO
+http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="测试频道",Canal Macau
+http://live4.tdm.com.mo/ch2/_definst_/ch2.live/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="测试频道",Canal Macau
+http://live4.tdm.com.mo:80/ch2/_definst_/ch2.live/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="测试频道",CBSN
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="测试频道",CCTV5+39
+http://39.135.138.60:18890/PLTV/88888910/224/3221225649/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="测试频道",CCTV5+117
+http://117.169.124.46:6410/ysten-businessmobile/live/hdcctv05plus/1.m3u8
+#EXTINF:-1 tvg-logo="" group-title="测试频道",CCTV5-39
+http://39.135.138.60:18890/PLTV/88888910/224/3221225633/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="测试频道",CCTV5-39-1
+http://39.135.32.24:6610/000000001000/1000000001000004794/index.m3u8?i
+#EXTINF:-1 tvg-logo="" group-title="测试频道",Celestial天映频道
+http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="测试频道",CGNTV Japan[1280*720]
+http://cgntv-glive.ofsdelivery.net/live/cgntv_jp/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="测试频道",Channel News Asia
+http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 tvg-logo="" group-title="测试频道",China tv1
+http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
+#EXTINF:-1 tvg-logo="" group-title="测试频道",China tv2
+http://hw-m-l.cztv.com/channels/lantian/channel02/1080p.m3u8
+#EXTINF:-1 tvg-logo="" group-title="测试频道",CNBC 18
+https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
+#EXTINF:-1 tvg-logo="" group-title="测试频道",Cnex[640*360]
+http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv013
+#EXTINF:-1 tvg-logo="" group-title="测试频道",CNN
+http://218.202.220.2:5000/nn_live.ts?id=CNN
+#EXTINF:-1 tvg-logo="" group-title="测试频道",CNN
+https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="测试频道",CNN
+http://93.190.139.35:8278/streams/d/cnn_antik/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="测试频道",CN卡通
+http://125.227.210.37:16671/VideoInput/play.ts
+#EXTINF:-1 tvg-logo="" group-title="测试频道",DaAi
+https://pulltv3.wanfudaluye.com/live/tv3.m3u8
+#EXTINF:-1 tvg-logo="" group-title="测试频道",Drama Sangat
+http://50.7.161.82:8278/streams/d/Dsangat/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="测试频道",ELEVEN1(soccer)
+http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="测试频道",ESPN (720p)
+https://content.uplynk.com/channel/d0695f6fa2f143eb95c7a41d96d581c4.m3u8
+#EXTINF:-1 tvg-logo="" group-title="测试频道",Euronews
+http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist_2m.m3u8
+#EXTINF:-1 tvg-logo="" group-title="测试频道",FashionTV
+http://lb.streaming.sk/fashiontv/stream/chunklist_w1402273512.m3u8
+#EXTINF:-1 tvg-logo="" group-title="测试频道",FashionTV
+http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
+#EXTINF:-1 tvg-logo="" group-title="测试频道",FashionTV
+https://fashiontv-fashiontv-4-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="测试频道",Fox News
+http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="测试频道",FOX Sport HD 1
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="测试频道",FOX频道
+http://125.227.210.37:13498/VideoInput/play.ts
+#EXTINF:-1 tvg-logo="" group-title="测试频道",FRANCE
+http://58.99.33.16:1935/liveedge17/live_156_3.stream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="测试频道",France 24
+http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+#EXTINF:-1 tvg-logo="" group-title="测试频道",HBO
+http://50.7.61.148:30080/Entry/hbo
+#EXTINF:-1 tvg-logo="" group-title="测试频道",HBO
+http://125.227.210.37:16027/VideoInput/play.ts
+#EXTINF:-1 tvg-logo="" group-title="测试频道",HBOHD
+http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="测试频道",HGTV居家乐活
+http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="测试频道",HKC有线新闻台
+https://api.leonardpark.dev/live/icable/109
+#EXTINF:-1 tvg-logo="" group-title="测试频道",HKC有线直播新闻台
+https://api.leonardpark.dev/live/icable/110
+#EXTINF:-1 tvg-logo="" group-title="测试频道",HKC有线财经资讯台
+https://api.leonardpark.dev/live/icable/108
+#EXTINF:-1 tvg-logo="" group-title="测试频道",Jasmin TV
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="测试频道",JET综合
+http://50.7.61.147:30080/Entry/jet
+#EXTINF:-1 tvg-logo="" group-title="测试频道",KBC(SBS 光州)
+http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="测试频道",KBS World
+https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-logo="" group-title="测试频道",KBS World50
+http://50.7.161.82:8278/streams/d/KBS/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="测试频道",KCTV 광주 CH05[1280*720]
+http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
+#EXTINF:-1 tvg-logo="" group-title="测试频道",Maah TV
+http://51.210.199.33/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="" group-title="测试频道",MAVlife
+http://58.99.33.16:1935/liveedge17/live_070_3.stream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="测试频道",MBC
+http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="测试频道",momo综合台
+http://58.99.33.16:1935/liveedge17/live_075_3.stream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="测试频道",MTN[1280*720]
+http://183.110.27.87/mtnlive/_definst_/720/chunklist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="测试频道",MTV
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-p.m3u8
+#EXTINF:-1 tvg-logo="" group-title="测试频道",MTVBiggestPop
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="测试频道",MTVBlockParty
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="测试频道",MTVSpankinNew
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="测试频道",MTVWMA
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="测试频道",NASA Media Channel
+https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master_2000.m3u8
+#EXTINF:-1 tvg-logo="" group-title="测试频道",NASA Public Channel
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+#EXTINF:-1 tvg-logo="" group-title="测试频道",NAT GEO wild
+http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="测试频道",Naura HD
+http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="测试频道",NBS Korea Agricultural Broadcasting[1280*720]
+https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="测试频道",NDTV 24X7
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="测试频道",New Japan Pro Wrestling World[1280*720]
+https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/playlist_DVR.m3u8
+#EXTINF:-1 tvg-logo="" group-title="测试频道",NHK
+http://58.99.33.16:1935/liveedge17/live_108_3.stream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="测试频道",NHK
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
+#EXTINF:-1 tvg-logo="" group-title="测试频道",NHK
+https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="测试频道",Nippon TV News24 Japan
+https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="测试频道",now SPORTS PRIME
+http://livetv.dnsfor.me:80/channel.12.m3u8
+#EXTINF:-1 tvg-logo="" group-title="测试频道",Now Sports Prime 630
+http://livetv.dnsfor.me/channel.12.m3u8
+#EXTINF:-1 tvg-logo="" group-title="测试频道",Now直播331台
+https://api.leonardpark.dev/live/now/331
+#EXTINF:-1 tvg-logo="" group-title="测试频道",NTV 7
+http://50.7.161.82:8278/streams/d/Rtmntv7/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="测试频道",Oh!K hd
+http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="测试频道",RFA 1
+https://rfahls-i.akamaihd.net/hls/live/226232/RFALive_1/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="测试频道",RFI 法国国际广播电台
+https://rfienchinois64k.ice.infomaniak.ch/rfienchinois-64.mp3
+#EXTINF:-1 tvg-logo="" group-title="测试频道",RTM Sports [HEVC]
+http://50.7.161.82:8278/streams/d/rtm_pye/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="测试频道",SET三立台湾
+http://50.7.61.148:30080/Entry/settw-
+#EXTINF:-1 tvg-logo="" group-title="测试频道",SkyNews
+https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8
+#EXTINF:-1 tvg-logo="" group-title="测试频道",SKYnews
+https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/05.m3u8
+#EXTINF:-1 tvg-logo="" group-title="测试频道",Sony One50
+http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="测试频道",SPORTS1
+https://95-213-224-183.livesports24.online/sport1ua.m3u8
+#EXTINF:-1 tvg-logo="" group-title="测试频道",Stadium UFC
+https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="测试频道",TDM Info. Macau (720p)
+http://live4.tdm.com.mo:80/ch5/_definst_/info_ch5.live/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="测试频道",TDM Macau (720p)
+http://live4.tdm.com.mo:80/ch1/_definst_/ch1.live/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="测试频道",TDM Macau Satelite (720p)
+http://live4.tdm.com.mo:80/ch3/_definst_/ch3.live/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="测试频道",TJB SBS
+http://1.245.74.5:1935/live/tv/.m3u8
+#EXTINF:-1 tvg-logo="" group-title="测试频道",TLC
+http://50.7.61.147:30080/Entry/tlc
+#EXTINF:-1 tvg-logo="" group-title="测试频道",TRT World
+https://api.trtworld.com/livestream/v1/WcM3Oa2LHD9iUjWDSRUI335NkMWVTUV351H56dqC/master.m3u8
