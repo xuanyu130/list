@@ -445,10 +445,6 @@ rtmp://59.124.75.157/sat/tv091
 rtmp://59.124.75.157/sat/tv111
 #EXTINF:-1 tvg-logo="" group-title="台湾频道rtmp",TVBS欢乐台
 rtmp://59.124.75.157:1935/sat/tv421
-#EXTINF:-1 tvg-logo="" group-title="台湾频道rtmp",TVBS欢乐台
-rtmp://59.124.75.157:1935/sat/tv421
-#EXTINF:-1 tvg-logo="" group-title="台湾频道rtmp",TVBS新闻台
-rtmp://59.124.75.157:1935/sat/tv551
 #EXTINF:-1 tvg-logo="" group-title="台湾频道rtmp",TVBS新闻台
 rtmp://59.124.75.157:1935/sat/tv551
 #EXTINF:-1 tvg-logo="" group-title="台湾频道rtmp",TVBS欢乐台(备)
@@ -627,6 +623,74 @@ http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8
 http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8$JS1080P
 #EXTINF:-1 tvg-logo="" group-title="测试频道",凤凰香港蓝光
 http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="测试频道",港台电视31
+http://185.207.176.189:8080/channels/tv-31/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="测试频道",港台电视31
+https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8
+#EXTINF:-1 tvg-logo="" group-title="测试频道",港台电视32
+http://185.207.176.189:8080/channels/tv-32/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="测试频道",港台电视32
+https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8
+#EXTINF:-1 tvg-logo="" group-title="测试频道",港台电视33
+http://185.207.176.189:8080/channels/tv-33/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="测试频道",港版美亚
+http://v3948069e.live.126.net/live/hod300.flv
+#EXTINF:-1 tvg-logo="" group-title="测试频道",港版美亚2
+http://v3948069e.live.126.net/live/hodtv4003.flv
+#EXTINF:-1 tvg-logo="" group-title="测试频道",澳视澳门
+http://live3.tdm.com.mo/ch1/ch1.live/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="测试频道",澳视澳门
+http://live4.tdm.com.mo/ch1/_definst_/ch1.live/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="测试频道",澳视葡文
+http://live4.tdm.com.mo/ch2/_definst_//ch2.live/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="测试频道",澳视澳门
+http://61.244.22.5/ch1/_definst_/ch1.live/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="测试频道",澳视澳门
+http://61.244.22.4/ch1/ch1.live/playelist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="测试频道",澳视澳门
+http://live3.tdm.com.mo:1935/ch1/ch1.live/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="测试频道",澳视综艺
+http://61.244.22.5/ch6/_definst_/hd_ch6.live/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="测试频道",澳视资讯
+http://61.244.22.5/ch5/info_ch5.live/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="测试频道",澳门MACAU
+http://live4.tdm.com.mo/ch3/_definst_//ch3.live/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="测试频道",澳门-MACAU
+http://live4.tdm.com.mo/ch3/_definst_/ch3.live/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="测试频道",澳门互动新闻台
+http://202.175.127.77/live/show/ch2/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="测试频道",澳门有线 CH1
+http://202.175.127.77/live/show/ch1/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="测试频道",澳门有线 CH3
+http://202.175.127.77/live/show/ch3/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="测试频道",澳门综艺
+http://live3.tdm.com.mo/ch6/hd_ch6.live/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="测试频道",澳门综艺
+http://live4.tdm.com.mo/ch6/_definst_/hd_ch6.live/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="测试频道",澳门资讯
+http://live4.tdm.com.mo/ch5/_difinst_/info_ch5.live/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="测试频道",澳门资讯
+http://live4.tdm.com.mo/ch5/_definst_/info_ch5.live/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="测试频道",澳门体育
+http://live3.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="测试频道",澳门2台
+http://61.244.22.4/ch2/ch2.live/playelist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="测试频道",澳门3台
+http://61.244.22.4/ch3/ch3.live/playelist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="测试频道",澳门卫星
+http://61.244.22.5/ch3/_definst_/ch3.live/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="测试频道",澳门卫星 (720p)
+http://live3.tdm.com.mo:1935/ch3/ch3.live/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="测试频道",澳门卫视
+http://61.244.22.5/ch3/ch3.live/chunklist_w1228316132.m3u8
+#EXTINF:-1 tvg-logo="" group-title="测试频道",澳门奥视
+http://61.244.22.5/ch1/ch1.live/playelist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="测试频道",澳门综艺 (720p)
+http://live2.tdm.com.mo:1935/ch6/hd_ch6.live/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="测试频道",澳门资讯
+http://61.244.22.5/ch5/_definst_/info_ch5.live/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="测试频道",澳门资讯 (720p)
+http://live3.tdm.com.mo:1935/ch5/info_ch5.live/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="测试频道",动物星球
 http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="测试频道",劲爆体育
@@ -771,74 +835,6 @@ http://seb.sason.top/ptv/ftv.php?id=zy
 http://50.7.61.147:30080/Entry/ftv
 #EXTINF:-1 tvg-logo="" group-title="测试频道",民视新闻
 http://50.7.61.148:30080/Entry/ftvnews
-#EXTINF:-1 tvg-logo="" group-title="测试频道",港台电视31
-http://185.207.176.189:8080/channels/tv-31/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="测试频道",港台电视31
-https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8
-#EXTINF:-1 tvg-logo="" group-title="测试频道",港台电视32
-http://185.207.176.189:8080/channels/tv-32/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="测试频道",港台电视32
-https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8
-#EXTINF:-1 tvg-logo="" group-title="测试频道",港台电视33
-http://185.207.176.189:8080/channels/tv-33/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="测试频道",港版美亚
-http://v3948069e.live.126.net/live/hod300.flv
-#EXTINF:-1 tvg-logo="" group-title="测试频道",港版美亚2
-http://v3948069e.live.126.net/live/hodtv4003.flv
-#EXTINF:-1 tvg-logo="" group-title="测试频道",澳视澳门
-http://live3.tdm.com.mo/ch1/ch1.live/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="测试频道",澳视澳门
-http://live4.tdm.com.mo/ch1/_definst_/ch1.live/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="测试频道",澳视葡文
-http://live4.tdm.com.mo/ch2/_definst_//ch2.live/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="测试频道",澳视澳门
-http://61.244.22.5/ch1/_definst_/ch1.live/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="测试频道",澳视澳门
-http://61.244.22.4/ch1/ch1.live/playelist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="测试频道",澳视澳门
-http://live3.tdm.com.mo:1935/ch1/ch1.live/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="测试频道",澳视综艺
-http://61.244.22.5/ch6/_definst_/hd_ch6.live/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="测试频道",澳视资讯
-http://61.244.22.5/ch5/info_ch5.live/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="测试频道",澳门MACAU
-http://live4.tdm.com.mo/ch3/_definst_//ch3.live/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="测试频道",澳门-MACAU
-http://live4.tdm.com.mo/ch3/_definst_/ch3.live/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="测试频道",澳门互动新闻台
-http://202.175.127.77/live/show/ch2/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="测试频道",澳门有线 CH1
-http://202.175.127.77/live/show/ch1/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="测试频道",澳门有线 CH3
-http://202.175.127.77/live/show/ch3/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="测试频道",澳门综艺
-http://live3.tdm.com.mo/ch6/hd_ch6.live/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="测试频道",澳门综艺
-http://live4.tdm.com.mo/ch6/_definst_/hd_ch6.live/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="测试频道",澳门资讯
-http://live4.tdm.com.mo/ch5/_difinst_/info_ch5.live/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="测试频道",澳门资讯
-http://live4.tdm.com.mo/ch5/_definst_/info_ch5.live/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="测试频道",澳门体育
-http://live3.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="测试频道",澳门2台
-http://61.244.22.4/ch2/ch2.live/playelist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="测试频道",澳门3台
-http://61.244.22.4/ch3/ch3.live/playelist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="测试频道",澳门卫星
-http://61.244.22.5/ch3/_definst_/ch3.live/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="测试频道",澳门卫星 (720p)
-http://live3.tdm.com.mo:1935/ch3/ch3.live/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="测试频道",澳门卫视
-http://61.244.22.5/ch3/ch3.live/chunklist_w1228316132.m3u8
-#EXTINF:-1 tvg-logo="" group-title="测试频道",澳门奥视
-http://61.244.22.5/ch1/ch1.live/playelist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="测试频道",澳门综艺 (720p)
-http://live2.tdm.com.mo:1935/ch6/hd_ch6.live/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="测试频道",澳门资讯
-http://61.244.22.5/ch5/_definst_/info_ch5.live/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="测试频道",澳门资讯 (720p)
-http://live3.tdm.com.mo:1935/ch5/info_ch5.live/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="测试频道",热血时报
 http://ptmirror3.passiontimes.hk/hls3/582000/stream.m3u8
 #EXTINF:-1 tvg-logo="" group-title="测试频道",第一财经HD
