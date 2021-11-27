@@ -420,13 +420,13 @@ https://cdn.hkdtmb.com/hls/99/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="港澳台频道",ViuTV Six
 https://cdn.hkdtmb.com/hls/96/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="港澳台频道",民视
-rtmp://59.124.75.136/sat/tv051
+rtmp://59.124.75.157:1935/sat/tv051
 #EXTINF:-1 tvg-logo="" group-title="港澳台频道",台视
-rtmp://59.124.75.136/sat/tv071
+rtmp://59.124.75.157:1935/sat/tv071
 #EXTINF:-1 tvg-logo="" group-title="港澳台频道",中视
-rtmp://59.124.75.136/sat/tv091
+rtmp://59.124.75.157:1935/sat/tv091
 #EXTINF:-1 tvg-logo="" group-title="港澳台频道",华视
-rtmp://59.124.75.136/sat/tv111
+rtmp://59.124.75.157:1935/sat/tv111
 #EXTINF:-1 tvg-logo="" group-title="港澳台频道",民视
 http://50.7.61.147:30080/Entry/ftv
 #EXTINF:-1 tvg-logo="" group-title="港澳台频道",台视
@@ -436,85 +436,85 @@ http://50.7.61.148:30080/Entry/ctv
 #EXTINF:-1 tvg-logo="" group-title="港澳台频道",华视
 http://50.7.61.147:30080/Entry/cts
 #EXTINF:-1 tvg-logo="" group-title="台湾频道rtmp",民视
-rtmp://59.124.75.136/sat/tv051
+rtmp://59.124.75.157/sat/tv051
 #EXTINF:-1 tvg-logo="" group-title="台湾频道rtmp",台视
-rtmp://59.124.75.136/sat/tv071
+rtmp://59.124.75.157/sat/tv071
 #EXTINF:-1 tvg-logo="" group-title="台湾频道rtmp",中视
-rtmp://59.124.75.136/sat/tv091
+rtmp://59.124.75.157/sat/tv091
 #EXTINF:-1 tvg-logo="" group-title="台湾频道rtmp",华视
-rtmp://59.124.75.136/sat/tv111
+rtmp://59.124.75.157/sat/tv111
 #EXTINF:-1 tvg-logo="" group-title="台湾频道rtmp",TVBS欢乐台
-rtmp://161.202.204.248:1935/sat/tv421
+rtmp://59.124.75.157:1935/sat/tv421
 #EXTINF:-1 tvg-logo="" group-title="台湾频道rtmp",TVBS欢乐台
-rtmp://59.124.75.136:1935/sat/tv421
+rtmp://59.124.75.157:1935/sat/tv421
 #EXTINF:-1 tvg-logo="" group-title="台湾频道rtmp",TVBS新闻台
-rtmp://161.202.204.248:1935/sat/tv551
+rtmp://59.124.75.157:1935/sat/tv551
 #EXTINF:-1 tvg-logo="" group-title="台湾频道rtmp",TVBS新闻台
-rtmp://59.124.75.136:1935/sat/tv551
+rtmp://59.124.75.157:1935/sat/tv551
 #EXTINF:-1 tvg-logo="" group-title="台湾频道rtmp",TVBS欢乐台(备)
-rtmp://59.124.75.136/sat/tv421
+rtmp://59.124.75.157/sat/tv421
 #EXTINF:-1 tvg-logo="" group-title="台湾频道rtmp",东森财经新闻
-rtmp://59.124.75.136:1935/sat/tv571
+rtmp://59.124.75.157:1935/sat/tv571
 #EXTINF:-1 tvg-logo="" group-title="台湾频道rtmp",纬来日本
-rtmp://59.124.75.136/sat/tv771
+rtmp://59.124.75.157/sat/tv771
 #EXTINF:-1 tvg-logo="" group-title="台湾频道rtmp",纬来育乐
-rtmp://59.124.75.136/sat/tv701
+rtmp://59.124.75.157/sat/tv701
 #EXTINF:-1 tvg-logo="" group-title="台湾频道rtmp",纬来体育
-rtmp://59.124.75.136/sat/tv721
+rtmp://59.124.75.157/sat/tv721
 #EXTINF:-1 tvg-logo="" group-title="台湾频道rtmp",ELEVEN1
-rtmp://59.124.75.136:1935/sat/tv731
+rtmp://59.124.75.157:1935/sat/tv731
 #EXTINF:-1 tvg-logo="" group-title="台湾频道rtmp",ELEVEN2
-rtmp://59.124.75.136:1935/sat/tv741
+rtmp://59.124.75.157:1935/sat/tv741
 #EXTINF:-1 tvg-logo="" group-title="台湾频道rtmp",MoMo综合台
-rtmp://59.124.75.136/sat/tv761
+rtmp://59.124.75.157/sat/tv761
 #EXTINF:-1 tvg-logo="" group-title="台湾频道rtmp",东森超视
-rtmp://59.124.75.136/sat/tv521
+rtmp://59.124.75.157/sat/tv521
 #EXTINF:-1 tvg-logo="" group-title="台湾频道rtmp",博斯魅力
-rtmp://59.124.75.136/sat/md011
+rtmp://59.124.75.157/sat/md011
 #EXTINF:-1 tvg-logo="" group-title="台湾频道rtmp",爱尔达体育1
-rtmp://59.124.75.136/sat/md021
+rtmp://59.124.75.157/sat/md021
 #EXTINF:-1 tvg-logo="" group-title="台湾频道rtmp",爱尔达体育2
-rtmp://59.124.75.136/sat/md031
+rtmp://59.124.75.157/sat/md031
 #EXTINF:-1 tvg-logo="" group-title="台湾频道rtmp",爱尔达体育1台
-rtmp://59.124.75.136/sat/md041
+rtmp://59.124.75.157/sat/md041
 #EXTINF:-1 tvg-logo="" group-title="台湾频道rtmp",爱尔达体育3台
-rtmp://59.124.75.136/sat/md021
+rtmp://59.124.75.157/sat/md021
 #EXTINF:-1 tvg-logo="" group-title="台湾频道rtmp",爱尔达体育3台
-rtmp://59.124.75.136/sat/md031
+rtmp://59.124.75.157/sat/md031
 #EXTINF:-1 tvg-logo="" group-title="台湾频道rtmp",爱尔达体育2台
-rtmp://59.124.75.136/sat/md051
+rtmp://59.124.75.157/sat/md051
 #EXTINF:-1 tvg-logo="" group-title="台湾频道rtmp",爱尔达体育1台
-rtmp://59.124.75.136/sat/md011
+rtmp://59.124.75.157/sat/md011
 #EXTINF:-1 tvg-logo="" group-title="台湾频道rtmp",博斯运动2
-rtmp://59.124.75.136/sat/md051
+rtmp://59.124.75.157/sat/md051
 #EXTINF:-1 tvg-logo="" group-title="台湾频道rtmp",东森超视
-rtmp://59.124.75.136:1935/sat/tv521
+rtmp://59.124.75.157:1935/sat/tv521
 #EXTINF:-1 tvg-logo="" group-title="台湾频道rtmp",爱尔达体育2
-rtmp://59.124.75.136:1935/sat/md031
+rtmp://59.124.75.157:1935/sat/md031
 #EXTINF:-1 tvg-logo="" group-title="台湾频道rtmp",ELEVEN2体育
-rtmp://59.124.75.136:1935/sat/md041
+rtmp://59.124.75.157:1935/sat/md041
 #EXTINF:-1 tvg-logo="" group-title="台湾频道rtmp",ELEVEN体育
-rtmp://59.124.75.136/sat/md041
+rtmp://59.124.75.157/sat/md041
 #EXTINF:-1 tvg-logo="" group-title="台湾频道rtmp",纬来育乐台
-rtmp://59.124.75.136/sat/tv701
+rtmp://59.124.75.157/sat/tv701
 #EXTINF:-1 tvg-logo="" group-title="台湾频道rtmp",ELEVEN体育一台
-rtmp://59.124.75.136:1935/sat/tv731
+rtmp://59.124.75.157:1935/sat/tv731
 #EXTINF:-1 tvg-logo="" group-title="台湾频道rtmp",ELEVEN体育二台
-rtmp://59.124.75.136:1935/sat/tv741
+rtmp://59.124.75.157:1935/sat/tv741
 #EXTINF:-1 tvg-logo="" group-title="台湾频道rtmp",MOMO追剧台
-rtmp://59.124.75.136:1935/sat/tv761
+rtmp://59.124.75.157:1935/sat/tv761
 #EXTINF:-1 tvg-logo="" group-title="台湾频道rtmp",有线18台
 rtmp://161.202.204.248/sat/hk041
 #EXTINF:-1 tvg-logo="" group-title="台湾频道rtmp",ELEVEN2体育
-rtmp://59.124.75.136:1935/sat/md041
+rtmp://59.124.75.157:1935/sat/md041
 #EXTINF:-1 tvg-logo="" group-title="台湾频道rtmp",ELEVEN体育
-rtmp://59.124.75.136/sat/md041
+rtmp://59.124.75.157/sat/md041
 #EXTINF:-1 tvg-logo="" group-title="台湾频道rtmp",纬来育乐台
-rtmp://59.124.75.136/sat/tv701
+rtmp://59.124.75.157/sat/tv701
 #EXTINF:-1 tvg-logo="" group-title="台湾频道rtmp",ELEVEN体育一台
-rtmp://59.124.75.136:1935/sat/tv731
+rtmp://59.124.75.157:1935/sat/tv731
 #EXTINF:-1 tvg-logo="" group-title="台湾频道rtmp",ELEVEN体育二台
-rtmp://59.124.75.136:1935/sat/tv741
+rtmp://59.124.75.157:1935/sat/tv741
 #EXTINF:-1 tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2016/1/25/1453690621284_114.png" group-title="测试频道",TV1
 http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2016/1/25/1453690628754_865.png" group-title="测试频道",TV2
