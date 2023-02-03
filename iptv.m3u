@@ -163,39 +163,39 @@ http://122.96.52.46:8080/gitv_live/G_NJJK/G_NJJK.m3u8
 http://122.96.52.46:8080/gitv_live/G_NJSH/G_NJSH.m3u8
 #EXTINF:-1 tvg-logo="" group-title="地方频道",南京十八
 http://122.96.52.46:8080/gitv_live/G_NJSB/G_NJSB.m3u8
-#EXTINF:-1 tvg-logo="" group-title="[RTHK] 香港電台",港台电视31
+#EXTINF:-1 tvg-logo="" group-title="香港地面频道",港台电视31
 https://cdn.hklive.tv/xxxx/31/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="[RTHK] 香港電台",港台电视32
+#EXTINF:-1 tvg-logo="" group-title="香港地面频道",港台电视32
 https://cdn.hklive.tv/xxxx/32/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="[RTHK] 香港電台",港台电视33
+#EXTINF:-1 tvg-logo="" group-title="香港地面频道",港台电视33
 https://cdn.hklive.tv/xxxx/33/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="[RTHK] 香港電台",CGTN纪录频道
+#EXTINF:-1 tvg-logo="" group-title="香港地面频道",CGTN纪录频道
 https://cdn.hklive.tv/xxxx/34/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="[RTHK] 香港電台",香港国际财经台
+#EXTINF:-1 tvg-logo="" group-title="香港地面频道",香港国际财经台
 https://cdn.hklive.tv/xxxx/76/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="[RTHK] 香港電台",HOY TV
+#EXTINF:-1 tvg-logo="" group-title="香港地面频道",HOY TV
 https://cdn.hklive.tv/xxxx/77/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="[RTHK] 香港電台",HOY TV 资讯台
+#EXTINF:-1 tvg-logo="" group-title="香港地面频道",HOY TV 资讯台
 https://cdn.hklive.tv/xxxx/78/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="[RTHK] 香港電台",翡翠台
+#EXTINF:-1 tvg-logo="" group-title="香港地面频道",翡翠台
 https://cdn.hklive.tv/xxxx/81/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="[RTHK] 香港電台",J2台
+#EXTINF:-1 tvg-logo="" group-title="香港地面频道",J2台
 https://cdn.hklive.tv/xxxx/82/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="[RTHK] 香港電台",无綫新闻台
+#EXTINF:-1 tvg-logo="" group-title="香港地面频道",无綫新闻台
 https://cdn.hklive.tv/xxxx/83/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="[RTHK] 香港電台",明珠台
+#EXTINF:-1 tvg-logo="" group-title="香港地面频道",明珠台
 https://cdn.hklive.tv/xxxx/84/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="[RTHK] 香港電台",无綫财经·资讯台
+#EXTINF:-1 tvg-logo="" group-title="香港地面频道",无綫财经·资讯台
 https://cdn.hklive.tv/xxxx/85/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="[RTHK] 香港電台",ViuTV Six
+#EXTINF:-1 tvg-logo="" group-title="香港地面频道",ViuTV Six
 https://cdn.hklive.tv/xxxx/96/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="[RTHK] 香港電台",ViuTV
+#EXTINF:-1 tvg-logo="" group-title="香港地面频道",ViuTV
 https://cdn.hklive.tv/xxxx/99/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="[RTHK] 香港電台",有线 财经资讯台
+#EXTINF:-1 tvg-logo="" group-title="香港地面频道",有线 财经资讯台
 https://cdn.hklive.tv/xxxx/108/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="[RTHK] 香港電台",有线 新闻台
+#EXTINF:-1 tvg-logo="" group-title="香港地面频道",有线 新闻台
 https://cdn.hklive.tv/xxxx/109/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="[RTHK] 香港電台",有线 直播新闻台
+#EXTINF:-1 tvg-logo="" group-title="香港地面频道",有线 直播新闻台
 https://cdn.hklive.tv/xxxx/110/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="[RTHK] 香港電台",Now 新闻台
+#EXTINF:-1 tvg-logo="" group-title="香港地面频道",Now 新闻台
 https://cdn.hklive.tv/xxxx/332/index.m3u8
