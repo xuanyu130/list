@@ -46,7 +46,7 @@ http://122.96.52.46:8080/gitv_live/G_CETV-3/G_CETV-3.m3u8
 #EXTINF:-1 tvg-logo="" group-title="央视频道",CETV4
 http://122.96.52.46:8080/gitv_live/G_CETV-4/G_CETV-4.m3u8
 #EXTINF:-1 tvg-logo="http://s.wasu.cn/data/images/201512/24/567b9d2aaed87.png" group-title="卫视频道",江苏卫视
-http://122.96.52.46:8080/gitv_live/JSWS-HD/JSWS-HD.m3u8
+http://122.96.52.46:8080/gitv_live/G_JIANGSU-HD/G_JIANGSU-HD.m3u8
 #EXTINF:-1 tvg-logo="http://s.wasu.cn/data/images/201512/24/567b952f71675.png" group-title="卫视频道",浙江卫视
 http://122.96.52.46:8080/gitv_live/ZJWS-HD/ZJWS-HD.m3u8
 #EXTINF:-1 tvg-logo="http://s0.xiaomitv.cc/pic/hunanweishi.jpg" group-title="卫视频道",湖南卫视
